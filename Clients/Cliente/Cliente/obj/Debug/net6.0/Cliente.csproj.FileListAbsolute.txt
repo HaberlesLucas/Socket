@@ -1,0 +1,14 @@
+D:\ESTUDIOS\4TO AÑO\2DO CUATRIMESTRE\REDES DE DATOS\TP\tp3\codTP3.2\Clients\Cliente\Cliente\bin\Debug\net6.0\Cliente.exe
+D:\ESTUDIOS\4TO AÑO\2DO CUATRIMESTRE\REDES DE DATOS\TP\tp3\codTP3.2\Clients\Cliente\Cliente\bin\Debug\net6.0\Cliente.deps.json
+D:\ESTUDIOS\4TO AÑO\2DO CUATRIMESTRE\REDES DE DATOS\TP\tp3\codTP3.2\Clients\Cliente\Cliente\bin\Debug\net6.0\Cliente.runtimeconfig.json
+D:\ESTUDIOS\4TO AÑO\2DO CUATRIMESTRE\REDES DE DATOS\TP\tp3\codTP3.2\Clients\Cliente\Cliente\bin\Debug\net6.0\Cliente.dll
+D:\ESTUDIOS\4TO AÑO\2DO CUATRIMESTRE\REDES DE DATOS\TP\tp3\codTP3.2\Clients\Cliente\Cliente\bin\Debug\net6.0\Cliente.pdb
+D:\ESTUDIOS\4TO AÑO\2DO CUATRIMESTRE\REDES DE DATOS\TP\tp3\codTP3.2\Clients\Cliente\Cliente\obj\Debug\net6.0\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTUDIOS\4TO AÑO\2DO CUATRIMESTRE\REDES DE DATOS\TP\tp3\codTP3.2\Clients\Cliente\Cliente\obj\Debug\net6.0\Cliente.AssemblyInfoInputs.cache
+D:\ESTUDIOS\4TO AÑO\2DO CUATRIMESTRE\REDES DE DATOS\TP\tp3\codTP3.2\Clients\Cliente\Cliente\obj\Debug\net6.0\Cliente.AssemblyInfo.cs
+D:\ESTUDIOS\4TO AÑO\2DO CUATRIMESTRE\REDES DE DATOS\TP\tp3\codTP3.2\Clients\Cliente\Cliente\obj\Debug\net6.0\Cliente.csproj.CoreCompileInputs.cache
+D:\ESTUDIOS\4TO AÑO\2DO CUATRIMESTRE\REDES DE DATOS\TP\tp3\codTP3.2\Clients\Cliente\Cliente\obj\Debug\net6.0\Cliente.dll
+D:\ESTUDIOS\4TO AÑO\2DO CUATRIMESTRE\REDES DE DATOS\TP\tp3\codTP3.2\Clients\Cliente\Cliente\obj\Debug\net6.0\refint\Cliente.dll
+D:\ESTUDIOS\4TO AÑO\2DO CUATRIMESTRE\REDES DE DATOS\TP\tp3\codTP3.2\Clients\Cliente\Cliente\obj\Debug\net6.0\Cliente.pdb
+D:\ESTUDIOS\4TO AÑO\2DO CUATRIMESTRE\REDES DE DATOS\TP\tp3\codTP3.2\Clients\Cliente\Cliente\obj\Debug\net6.0\Cliente.genruntimeconfig.cache
+D:\ESTUDIOS\4TO AÑO\2DO CUATRIMESTRE\REDES DE DATOS\TP\tp3\codTP3.2\Clients\Cliente\Cliente\obj\Debug\net6.0\ref\Cliente.dll
