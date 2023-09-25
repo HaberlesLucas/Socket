@@ -27,7 +27,6 @@ class Cliente
         try
         {
             cliente.Connect(servidorIP, servidorPuerto);
-
             // Comprobar si la conexión fue exitosa
             if (cliente.Connected)
             {
@@ -66,7 +65,6 @@ class Cliente
                     Console.WriteLine("No puedes enviar un mensaje vacío. Escribe algo.");
                 }
             }
-
             // Cerrar el socket del cliente
             cliente.Close();
         }

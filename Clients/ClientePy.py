@@ -1,7 +1,8 @@
 import socket
-import threading
+import threading 
 
 # Función para solicitar y validar el nombre de usuario
+print('*** BIENVENIDO AL CLIENTE EN LENGUAJE PYTHON ***')
 def obtener_nombre_usuario():
     while True:
         nombre_usuario = input("Ingresa tu nombre de usuario: ")
@@ -12,9 +13,6 @@ def obtener_nombre_usuario():
 
 # Obtener el nombre de usuario
 nombre_usuario = obtener_nombre_usuario()
-
-# Mensaje de conexión exitosa al servidor
-print("Conexión exitosa al servidor.")
 
 
 # Función para manejar la recepción de mensajes
@@ -31,7 +29,16 @@ def recibir_mensajes(cliente_socket):
 cliente = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 servidor_ip = input("Ingresa la dirección IP del servidor: ")
 servidor_puerto = int(input("Ingresa el puerto del servidor: "))
-cliente.connect((servidor_ip, servidor_puerto))
+try:
+    cliente.connect((servidor_ip, servidor_puerto))
+    # Si la conexión se establece correctamente, llegamos aquí
+    print("Conexión exitosa al servidor.")
+except Exception as e:
+    # Si ocurre algún error durante la conexión, llegamos aquí
+    print(f"Error al conectar al servidor: {e}")
+    # Cerrar el socket del cliente
+    cliente.close()
+
 
 # Iniciar un hilo para recibir mensajes
 thread_recv = threading.Thread(target=recibir_mensajes, args=(cliente,))
